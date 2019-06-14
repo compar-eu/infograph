@@ -1,4 +1,4 @@
-idid,screened,total,label,id,centertext1,centertext2,rectoffset,textoffset,leghitwidth,appearoffset
+idid,extracted,total,label,id,centertext1,centertext2,rectoffset,textoffset,leghitwidth,appearoffset
 copd,2932,2932,COPD,#97b8e2,No. of studies,screened,190,214,150,0
 heart,6093,6093,Heart Failure,#f7a831,No. of studies,screened,30,54,160,0
 obesi,8730,8730,Obesity,#e73144,No. of studies,screened,-80,-56,110,0
