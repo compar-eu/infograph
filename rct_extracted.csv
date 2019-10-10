@@ -2,4 +2,4 @@ idid,screened,total,label,id,centertext1,centertext2,rectoffset,textoffset,leghi
 copd,1,a,COPD,#97b8e2,No. of studies,extracted,190,214,150,0
 heart,1,a,Heart Failure,#f7a831,No. of studies,extracted,30,54,160,0
 obesi,1,a,Obesity,#e73144,No. of studies,extracted,-80,-56,110,0
-diab,599,1024,Type 2 Diabetes,#456ba2,No. of studies,extracted,-275,-251,195,0
+diab,1024,1089,Type 2 Diabetes,#456ba2,No. of studies,extracted,-275,-251,195,0
