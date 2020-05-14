@@ -1,5 +1,5 @@
 idid,screened,total,label,id,centertext1,centertext2,rectoffset,textoffset,leghitwidth,appearoffset
-copd,1,a,COPD,#97b8e2,No. of studies,extracted,190,214,150,0
+copd,348,348,COPD,#97b8e2,No. of studies,extracted,190,214,150,0
 heart,425,425,Heart Failure,#f7a831,No. of studies,extracted,30,54,160,0
 obesi,674,674,Obesity,#e73144,No. of studies,extracted,-80,-56,110,0
 diab,914,914,Type 2 Diabetes,#456ba2,No. of studies,extracted,-275,-251,195,0
